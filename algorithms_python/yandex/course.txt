@@ -1,0 +1,9 @@
+lesson 1:
+
+- take into account the resources: memory, processor, time
+- tradeoff 
+- f = O(g)
+- f = Theta(g)
+- f = Omg(g)
+* search RAM module
+ 
